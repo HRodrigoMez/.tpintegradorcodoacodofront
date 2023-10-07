@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 10%;
+}
+
+.card-img-overlay {
+    position: absolute;
+    display: inline;
+    text-align: right;
+}
+.card-superpuesta img{
+    filter: brightness(30%);
+}
+.cuadro-texto {
+    position: relative;
+    }
+#honolulu {
+    width: 100%;
+    height: 100%;
+}
+#carouselSlidesOnly {
+    background-color: black;
+    opacity: 50;
+}
+.border-bottom {
+    border-bottom: dashed !important;
+}
