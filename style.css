@@ -2,18 +2,8 @@
     margin: 0;
     padding: 0;
 }
-
 .navbar {
     height: 10%;
-}
-
-.card-img-overlay {
-    position: absolute;
-    display: inline;
-    text-align: right;
-}
-.card-superpuesta img{
-    filter: brightness(30%);
 }
 .cuadro-texto {
     position: relative;
@@ -28,4 +18,7 @@
 }
 .border-bottom {
     border-bottom: dashed !important;
+}
+.item-encabezado {
+    font-size: 16px;
 }
