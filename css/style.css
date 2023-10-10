@@ -4,7 +4,13 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar {
-    height: 10%;
+    height: 10%
+}
+#carouselSlidesOnly {
+    background-color: black;
+}
+#texto-bs-as {
+    font-size: 1rem;
 }
 #honolulu {
     background-color: #2a3239;
@@ -15,10 +21,6 @@
 .item-encabezado {
     font-size: 16px;
 }
-#carouselSlidesOnly {
-    opacity: 50;
-    background-color: black;
-}
 .card-footer {
     display: inline-block;
     width: 100%;
@@ -28,5 +30,5 @@
     }
 .pie-de-pagina {
     text-decoration: none;
-    margin: top 50px;  
+    text-align: center; 
 }
