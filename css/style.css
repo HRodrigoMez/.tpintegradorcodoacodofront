@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+    height: 10%;
+}
+#honolulu {
+    background-color: #2a3239;
+}
+.border-bottom {
+    border-bottom: dashed !important;
+}
+.item-encabezado {
+    font-size: 16px;
+}
+#carouselSlidesOnly {
+    opacity: 50;
+    background-color: black;
+}
+.card-footer {
+    display: inline-block;
+    width: 100%;
+    height: 100px;
+    background: #2E4053;
+    text-align: center;
+    }
+.pie-de-pagina {
+    text-decoration: none;
+    margin: top 50px;  
+}
